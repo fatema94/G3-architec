@@ -47,7 +47,9 @@
     color: black;
  }
  .banner{
-   width: 100%;
+   max-width: 1440px;
+   margin: 50px auto;
+   padding: 10px 100px;
  }
  .banner-content{
     max-width: 800px;
