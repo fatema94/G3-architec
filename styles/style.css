@@ -46,6 +46,9 @@
     text-decoration: none;
     color: black;
  }
+ .banner{
+   width: 100%;
+ }
  .banner-content{
     max-width: 800px;
     text-align: center;
@@ -176,6 +179,9 @@ footer{
        }
        .navbar , .team-container, .features, .facts-card, .sponsor-img{
            flex-direction: column;
+       }
+       .banner-content{
+         max-width: 500px;
        }
        .team-img{
         grid-template-columns: 1fr;
