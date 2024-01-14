@@ -159,6 +159,7 @@ main{
  }
 .sponsors{
    text-align: center;
+   margin-top: 150px;
 }
 .sponsor-img{
    display: flex;
@@ -174,7 +175,7 @@ footer{
    text-align: center;
    background: rgba(255, 144, 14, 0.10);
    font-size: 1.2rem;
-   margin: 20px 150px;
+   margin: 50px 150px;
 }
  /* responsive media quaries */
  /* mobile devices */
